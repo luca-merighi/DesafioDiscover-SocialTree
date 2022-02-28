@@ -9,4 +9,4 @@ A página possuí semântica, responsividade para outros dispositivos, e animaç
 </div>
 <br/>
 
-### [Link para a Página]()
+### [Link para a Página](https://luca-merighi.github.io/DesafioDiscover-SocialTree/ "Página de Links Sociais")
